@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
@@ -6,14 +6,15 @@
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     -o-box-sizing: border-box;
-   
-}
-body{
-    background-color: #fcfcfc;
-  
+
 }
 
-.nav__bar{
+body {
+    background-color: #fcfcfc;
+
+}
+
+.nav__bar {
     width: 100%;
     height: 50px;
     line-height: 50px;
@@ -22,52 +23,60 @@ body{
     background-color: #23f3db;
 
 }
-.nav__bar .fa-caret-down{
+
+.nav__bar .fa-caret-down {
     color: #33c1b1;
     font-size: 20px;
     margin: 17px 10px;
     display: inline-block;
     position: absolute;
 }
-ul{
+
+ul {
     list-style: none;
 }
 
-ul li{
+ul li {
     width: 200px;
     height: 50px;
     line-height: 50px;
     text-align: center;
     float: left;
     color: #fff;
-    
-    
+
+
 }
-ul.main_menu li:hover{
+
+ul.main_menu li:hover {
     background-color: #43ea7e;
 }
-ul li a{
+
+ul li a {
     text-decoration: none;
     color: #020202;
     font-weight: bold;
     font-size: 23px;
     font-family: Arial;
 }
-ul li a:hover{
+
+ul li a:hover {
     color: #fff;
 }
-ul li ul li{
+
+ul li ul li {
     display: none;
     z-index: 1;
-    
+
 }
-ul li ul li a{
-color: #fff;
-font-size: 14px;
-font-family: Arial;
-font-weight: normal;
-} 
-ul li:hover ul li{
+
+ul li ul li a {
+    color: #fff;
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+ul li:hover ul li {
     width: 80%;
     height: auto;
     display: block;
@@ -75,5 +84,3 @@ ul li:hover ul li{
     padding: 0px;
     margin: 0px;
 }
-
-
