@@ -16,4 +16,4 @@ Visit this link: [html5-menu](https://mahmoudahmadosman.github.io/html5-menu/)
 
 ### My Website
  Please, visit my website
-[netsansoftwarec.com](https://www.netsansoftware.com/)
+[mahmoudosman.com](https://www.mahmoudosman.com)
